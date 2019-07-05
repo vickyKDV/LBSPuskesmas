@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LBS Puskesmas</string>
+    <string name="title_activity_list">ListActivity</string>
+    <string name="google_maps_key">AIzaSyB1Y4q-6yNI4kULAW4G3Yw3X9RVZyzB5eI</string>
+</resources>
